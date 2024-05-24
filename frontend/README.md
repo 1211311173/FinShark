@@ -1,3 +1,3 @@
 # FinShark
 
-FinShark helps investors find relavent financial documents without the noise of short-term data.
+FinShark helps investors to check relevant data about stocks.
